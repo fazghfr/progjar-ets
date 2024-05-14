@@ -1,0 +1,13 @@
+{	"transactions":			         751,
+	"availability":			       75.10,
+	"elapsed_time":			      375.02,
+	"data_transferred":		        0.02,
+	"response_time":		        4.86,
+	"transaction_rate":		        2.00,
+	"throughput":			        0.00,
+	"concurrency":			        9.74,
+	"successful_transactions":	         751,
+	"failed_transactions":		         249,
+	"longest_transaction":		      120.46,
+	"shortest_transaction":		        0.05
+}
